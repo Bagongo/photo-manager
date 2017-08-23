@@ -15,7 +15,3 @@
 //= require rails-ujs
 //= require_tree .
 
-
-$(document).ready(function(){
-	//console.log($("#form-1").attr("class"));
-});
